@@ -1,0 +1,19 @@
+aside h4{
+    color: white;
+    position: relative;
+    left: 240px;
+}
+
+aside a{
+    font-size:small;
+    position: relative;
+    bottom: 510px;
+    padding-top: 10px;
+}
+
+aside h3{
+    font-size: small;
+    position: relative;
+    bottom: 520px;
+    color: white;
+}
