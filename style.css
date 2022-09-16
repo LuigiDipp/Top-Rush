@@ -5,7 +5,7 @@ aside h4{
 }
 
 aside a{
-    font-size:small;
+    font-size:smaller;
     position: relative;
     bottom: 510px;
     padding-top: 10px;
@@ -15,5 +15,15 @@ aside h3{
     font-size: small;
     position: relative;
     bottom: 520px;
+    color: white;
+}
+
+body{
+    padding-top: 3%;
+    background-image: url(https://images.pexels.com/photos/39501/lamborghini-brno-racing-car-automobiles-39501.jpeg?cs=srgb&dl=pexels-pixabay-39501.jpg&fm=jpg); 
+    
+}
+
+span{
     color: white;
 }
