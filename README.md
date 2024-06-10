@@ -12,7 +12,7 @@
 <br>
 <p>"Top-Rush" é um emocionante jogo de corrida desenvolvido com HTML, CSS e JavaScript, inspirado no clássico "Top Gear". Compita em pistas desafiadoras, desvie dos obstáculos e supere seus adversários para alcançar a linha de chegada em primeiro lugar. Prepare-se para sentir a adrenalina das altas velocidades e o desafio de se tornar o melhor piloto!</p>
 
-<h1>⚙️Funcionalidades⚙️</h1>
+<h1 align="center">⚙️Funcionalidades⚙️</h1>
 <br>
 <ul>
     <li><strong>Gráficos Retro:</strong> Visual nostálgico com design inspirado nos jogos de corrida clássicos.</li>
@@ -21,7 +21,7 @@
     <li><strong>Som e Música:</strong> Efeitos sonoros e trilha sonora envolventes para uma experiência imersiva.</li>
 </ul>
 
-<h1 align="center">Tecnologias Utilizadas</h1>
+<h1 align="center">💻Tecnologias Utilizadas💻</h1>
 <br>
 <ul>
     <li><strong>HTML5:</strong> Estruturação do jogo e elementos visuais.</li>
