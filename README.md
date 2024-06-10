@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>🚗Top Rush🚗</h1>
+<h1 align="center">🚗Top Rush🚗</h1>
 
 <h1 align="center">Descrição</h1>
 <p>"Top-Rush" é um emocionante jogo de corrida desenvolvido com HTML, CSS e JavaScript, inspirado no clássico "Top Gear". Compita em pistas desafiadoras, desvie dos obstáculos e supere seus adversários para alcançar a linha de chegada em primeiro lugar. Prepare-se para sentir a adrenalina das altas velocidades e o desafio de se tornar o melhor piloto!</p>
