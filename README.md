@@ -43,6 +43,9 @@
 <br>
 <br>
 <br>
+<img src="https://img.freepik.com/fotos-premium/ilustracao-de-ia-generativa-do-cachorro-dachshund-usando-oculos-escuros-nas-ferias-sentado-em-uma-rede_58460-14386.jpg">
+<br>
+<br>
 <p>"Top-Rush" traz de volta a diversão e a adrenalina dos clássicos jogos de corrida, proporcionando horas de entretenimento para jogadores de todas as idades. Prepare-se para pisar fundo e deixar todos os adversários para trás!</p>
 
 </body>
